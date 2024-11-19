@@ -1,6 +1,6 @@
 # 🚀 Terraform-Directive-An-DevOps-Automation-Journey 🛠️  
 
-[![Terraform](https://i1.wp.com/blog.knoldus.com/wp-content/uploads/2021/05/10b4bf00-6a20-11ea-8934-20870600afc0-1.png?w=1200&ssl=1)
+[![Terraform](https://i1.wp.com/blog.knoldus.com/wp-content/uploads/2021/05/10b4bf00-6a20-11ea-8934-20870600afc0-1.png?w=1200&ssl=1)]
 
 Welcome to **Terraform Mastery: DevOps Infrastructure as Code**! This repository is your structured guide to mastering **Terraform** and implementing robust Infrastructure as Code (IaC) practices. From foundational concepts to advanced workflows, this resource is crafted for **terraform learners** and seasoned DevOps engineers aiming to streamline their infrastructure management. 🌟  
 
